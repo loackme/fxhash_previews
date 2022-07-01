@@ -5,5 +5,6 @@ https://github.com/puppeteer/puppeteer
 
 Usage:
 ```
+npm i puppeteer
 node fx_previews.js
 ```
